@@ -3,8 +3,8 @@
 
 int main()
 {
-	int arraySize = 0, getMem = 0;
-	float artMean = 0,geoMean = 0;
+	int arraySize = 0, getMem = 0, geoMean = 0;
+	float artMean = 0;
 	int aS = 0, gS = 0;
 	int myArray[100];
 	printf("Enter The Array Size:");
